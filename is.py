@@ -1,0 +1,6 @@
+#print(x.alphanum())
+x=input("enter ")
+print(x.isdigit())
+print(x.islower())
+print(x.isupper())
+print(x.isalpha())
