@@ -6,3 +6,8 @@ n=int(input("enter no."))
 #print("----------------------------")
 for i in range(n):
     print("*"*(i+1))
+print("-----------------------")
+x=int(input("enter no."))
+for j in range(1,x+1):
+    print(j)
+    for k in range(x)
