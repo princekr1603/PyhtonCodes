@@ -9,5 +9,7 @@ for i in range(n):
 print("-----------------------")
 x=int(input("enter no."))
 for j in range(1,x+1):
-    print(j)
-    for k in range(x)
+    for k in range(1,j+1):
+        print(j,end="")
+    print()   
+    
