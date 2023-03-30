@@ -8,3 +8,8 @@
 # print(ans)
 # if(ans==y):
 #     print("palindrome")
+str=input()
+if(str==str[ ::-1]):
+    print("palindrom")
+else:
+    print("not palindrom")
